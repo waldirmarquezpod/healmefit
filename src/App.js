@@ -67,7 +67,7 @@ export default function EditSesion() {
       text: "Files uploaded",
       icon: "success",
       button: "Confirm",
-      timer: "2000"
+      timer: "2100"
     }
 
     )
